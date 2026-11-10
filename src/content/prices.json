@@ -1,0 +1,3103 @@
+{
+ "source": {
+  "ro": "https://www.nufarul.com/ro/order-online.html",
+  "ru": "https://www.nufarul.com/ru/order-online.html"
+ },
+ "importedAt": "2026-11-10",
+ "ro": {
+  "categories": [
+   {
+    "id": 35,
+    "title": "Colectare și livrare comenzi",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Localități din mun. Chișinău și apropiere, inclusiv Durleşti, Dumbrava, Stăuceni, Grătieşti, Cruzești, Codru, Aeroport, Bacioi, Sângera, Bâc, Cricova",
+      "prices": [
+       "150"
+      ],
+      "unit": "order",
+      "from": true
+     },
+     {
+      "name": "Pe teritoriul Republicii Moldova",
+      "prices": [
+       "6"
+      ],
+      "unit": "km",
+      "from": true
+     },
+     {
+      "name": "Toate sectoarele orașului: Botanica, Buiucani, Centru, Râșcani, Ciocana (incl. Coloniţa, Bubuieci, Tohatin).",
+      "prices": [
+       "90"
+      ],
+      "unit": "order",
+      "from": true
+     }
+    ]
+   },
+   {
+    "id": 9,
+    "title": "Haine din textile",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Bluză (cu aplicații din piele)",
+      "prices": [
+       "190"
+      ]
+     },
+     {
+      "name": "Bluză",
+      "prices": [
+       "140",
+       "110"
+      ],
+      "variants": [
+       {
+        "label": "cu mâneci",
+        "price": "140"
+       },
+       {
+        "label": "fără mâneci",
+        "price": "110"
+       }
+      ]
+     },
+     {
+      "name": "Căciulă groasă",
+      "prices": [
+       "100"
+      ]
+     },
+     {
+      "name": "Căciulă subțire, chipiu, beretă",
+      "prices": [
+       "75"
+      ]
+     },
+     {
+      "name": "Cămaşă clasică",
+      "prices": [
+       "85"
+      ]
+     },
+     {
+      "name": "Cămaşă complicată",
+      "prices": [
+       "100"
+      ]
+     },
+     {
+      "name": "Cămaşă din mătase",
+      "prices": [
+       "115"
+      ]
+     },
+     {
+      "name": "Căptuşeală detaşabilă din blană artificială",
+      "prices": [
+       "200",
+       "160"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "200"
+       },
+       {
+        "label": "fără glugă",
+        "price": "160"
+       }
+      ]
+     },
+     {
+      "name": "Căptuşeală detaşabilă din blană naturală",
+      "prices": [
+       "305",
+       "265"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "305"
+       },
+       {
+        "label": "fără glugă",
+        "price": "265"
+       }
+      ]
+     },
+     {
+      "name": "Ciorapi",
+      "prices": [
+       "40"
+      ]
+     },
+     {
+      "name": "Combinezon",
+      "prices": [
+       "220"
+      ]
+     },
+     {
+      "name": "Combinezon cu căptușeală",
+      "prices": [
+       "300"
+      ]
+     },
+     {
+      "name": "Costum sportiv",
+      "prices": [
+       "200"
+      ]
+     },
+     {
+      "name": "Cravată",
+      "prices": [
+       "55"
+      ]
+     },
+     {
+      "name": "Demiu, pardesiu",
+      "prices": [
+       "330",
+       "300"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "330"
+       },
+       {
+        "label": "fără glugă",
+        "price": "300"
+       }
+      ]
+     },
+     {
+      "name": "Fular, basma",
+      "prices": [
+       "60",
+       "90"
+      ],
+      "variants": [
+       {
+        "label": "<1m²",
+        "price": "60"
+       },
+       {
+        "label": ">1m²",
+        "price": "90"
+       }
+      ]
+     },
+     {
+      "name": "Fustă",
+      "prices": [
+       "120",
+       "130"
+      ],
+      "variants": [
+       {
+        "label": "<70 cm",
+        "price": "120"
+       },
+       {
+        "label": "> 70 cm",
+        "price": "130"
+       }
+      ]
+     },
+     {
+      "name": "Fustă (plisată, gofrată,cu pliuri)",
+      "prices": [
+       "150"
+      ]
+     },
+     {
+      "name": "Fustă împletită",
+      "prices": [
+       "130",
+       "140"
+      ],
+      "variants": [
+       {
+        "label": "<70 cm",
+        "price": "130"
+       },
+       {
+        "label": "> 70 cm",
+        "price": "140"
+       }
+      ]
+     },
+     {
+      "name": "Halat lung",
+      "prices": [
+       "135",
+       "115"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "135"
+       },
+       {
+        "label": "fără glugă",
+        "price": "115"
+       }
+      ]
+     },
+     {
+      "name": "Halat scurt",
+      "prices": [
+       "125",
+       "105"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "125"
+       },
+       {
+        "label": "fără glugă",
+        "price": "105"
+       }
+      ]
+     },
+     {
+      "name": "Jiletcă cu căptuşeală din puf, sitepon",
+      "prices": [
+       "270",
+       "230"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "270"
+       },
+       {
+        "label": "fără glugă",
+        "price": "230"
+       }
+      ]
+     },
+     {
+      "name": "Jiletcă cu căptuşeală din puf, sitepon (demisezon)",
+      "prices": [
+       "235",
+       "195"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "235"
+       },
+       {
+        "label": "fără glugă",
+        "price": "195"
+       }
+      ]
+     },
+     {
+      "name": "Jiletcă",
+      "prices": [
+       "120",
+       "100"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "120"
+       },
+       {
+        "label": "fără glugă",
+        "price": "100"
+       }
+      ]
+     },
+     {
+      "name": "Maiou din tricotaj",
+      "prices": [
+       "55"
+      ]
+     },
+     {
+      "name": "Mănuşi",
+      "prices": [
+       "45"
+      ]
+     },
+     {
+      "name": "Palton cu căptuşeală din puf, sintepon",
+      "prices": [
+       "370",
+       "330"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "370"
+       },
+       {
+        "label": "fără glugă",
+        "price": "330"
+       }
+      ]
+     },
+     {
+      "name": "Palton de iarnă, palton de caşmir",
+      "prices": [
+       "365",
+       "325"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "365"
+       },
+       {
+        "label": "fără glugă",
+        "price": "325"
+       }
+      ]
+     },
+     {
+      "name": "Palton scurt cu căptuşeală din puf, sintepon",
+      "prices": [
+       "340",
+       "300"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "340"
+       },
+       {
+        "label": "fără glugă",
+        "price": "300"
+       }
+      ]
+     },
+     {
+      "name": "Palton scurt de iarnă, palton scurt de cașimir",
+      "prices": [
+       "340",
+       "300"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "340"
+       },
+       {
+        "label": "fără glugă",
+        "price": "300"
+       }
+      ]
+     },
+     {
+      "name": "Pantaloni cu aplicații din piele",
+      "prices": [
+       "275"
+      ]
+     },
+     {
+      "name": "Pantaloni cu căptușeală călduroasă (incl. de schi)",
+      "prices": [
+       "185"
+      ]
+     },
+     {
+      "name": "Pantaloni de costum, blugi",
+      "prices": [
+       "135"
+      ]
+     },
+     {
+      "name": "Pijama",
+      "prices": [
+       "115",
+       "100"
+      ],
+      "variants": [
+       {
+        "label": "groasă",
+        "price": "115"
+       },
+       {
+        "label": "subțire",
+        "price": "100"
+       }
+      ]
+     },
+     {
+      "name": "Polo, tricou, raglan",
+      "prices": [
+       "75",
+       "65"
+      ],
+      "variants": [
+       {
+        "label": "cu mâneci",
+        "price": "75"
+       },
+       {
+        "label": "fără mâneci",
+        "price": "65"
+       }
+      ]
+     },
+     {
+      "name": "Pulover, jachetă, sveter",
+      "prices": [
+       "130",
+       "105"
+      ],
+      "variants": [
+       {
+        "label": "cu mâneci",
+        "price": "130"
+       },
+       {
+        "label": "fără mâneci",
+        "price": "105"
+       }
+      ]
+     },
+     {
+      "name": "Rochie de gală",
+      "prices": [
+       "230",
+       "250"
+      ],
+      "variants": [
+       {
+        "label": "simplă",
+        "price": "230"
+       },
+       {
+        "label": "complicată",
+        "price": "250"
+       }
+      ]
+     },
+     {
+      "name": "Rochie",
+      "prices": [
+       "170",
+       "210"
+      ],
+      "variants": [
+       {
+        "label": "simplă",
+        "price": "170"
+       },
+       {
+        "label": "complicată",
+        "price": "210"
+       }
+      ]
+     },
+     {
+      "name": "Rochie de mireasă (cu max. 2 fuste)",
+      "prices": [
+       "480"
+      ]
+     },
+     {
+      "name": "Rochie de mireasă (sofisticată/complicată, sau voluminoasă cu 3 fuste)",
+      "prices": [
+       "600"
+      ]
+     },
+     {
+      "name": "Rochie de mireasă (sofisticată/complicată, sau voluminoasă cu min. 4 fuste sau trenă)",
+      "prices": [
+       "885"
+      ]
+     },
+     {
+      "name": "Rochie lungă",
+      "prices": [
+       "290",
+       "390"
+      ],
+      "variants": [
+       {
+        "label": "simplă",
+        "price": "290"
+       },
+       {
+        "label": "complicată",
+        "price": "390"
+       }
+      ]
+     },
+     {
+      "name": "Sacou",
+      "prices": [
+       "165"
+      ]
+     },
+     {
+      "name": "Sacou (lungimea peste 85 cm), cardigan",
+      "prices": [
+       "190"
+      ]
+     },
+     {
+      "name": "Sacou din stofă groasă",
+      "prices": [
+       "205"
+      ]
+     },
+     {
+      "name": "Scurtă cu căptuşeală călduroasă din sintepon",
+      "prices": [
+       "325",
+       "285"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "325"
+       },
+       {
+        "label": "fără glugă",
+        "price": "285"
+       }
+      ]
+     },
+     {
+      "name": "Scurtă cu căptuşeală detaşabilă din blană naturală",
+      "prices": [
+       "330",
+       "290"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "330"
+       },
+       {
+        "label": "fără glugă",
+        "price": "290"
+       }
+      ]
+     },
+     {
+      "name": "Scurtă cu căptuşeală din puf",
+      "prices": [
+       "340",
+       "300"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "340"
+       },
+       {
+        "label": "fără glugă",
+        "price": "300"
+       }
+      ]
+     },
+     {
+      "name": "Scurtă cu căptuşeală din puf (demisezon)",
+      "prices": [
+       "295",
+       "265"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "295"
+       },
+       {
+        "label": "fără glugă",
+        "price": "265"
+       }
+      ]
+     },
+     {
+      "name": "Scurtă cu căptuşeală din sitepon (demisezon)",
+      "prices": [
+       "260",
+       "230"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "260"
+       },
+       {
+        "label": "fără glugă",
+        "price": "230"
+       }
+      ]
+     },
+     {
+      "name": "Scurtă din stofă subţire, vindiac, scurtă / giacă din jeans",
+      "prices": [
+       "205",
+       "185"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "205"
+       },
+       {
+        "label": "fără glugă",
+        "price": "185"
+       }
+      ]
+     },
+     {
+      "name": "Scurtă/geacă de la costum sportiv din nailon",
+      "prices": [
+       "135",
+       "115"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "135"
+       },
+       {
+        "label": "fără glugă",
+        "price": "115"
+       }
+      ]
+     },
+     {
+      "name": "Trenci",
+      "prices": [
+       "260"
+      ]
+     },
+     {
+      "name": "Trenci cu căptuşeală detaşabilă din blană",
+      "prices": [
+       "315",
+       "260"
+      ],
+      "variants": [
+       {
+        "label": "naturală",
+        "price": "315"
+       },
+       {
+        "label": "artificială",
+        "price": "260"
+       }
+      ]
+     },
+     {
+      "name": "Voal, icl. de mireasă",
+      "prices": [
+       "105"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 12,
+    "title": "Pleduri, plapume, draperii, jucării, alte produse",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Confecţii de draperie, faţa de masă, ţol, huse pentru auto, pelerina de divan/fotoliu",
+      "prices": [
+       "50"
+      ],
+      "unit": "m²"
+     },
+     {
+      "name": "Confecţii pentru pat din pânză cu bucle lungi - 1 persoană",
+      "prices": [
+       "275"
+      ]
+     },
+     {
+      "name": "Confecţii pentru pat din pânză cu bucle lungi - 2 persoane",
+      "prices": [
+       "345"
+      ]
+     },
+     {
+      "name": "Cuvertură cu dimensiuni de până la 3 m.p.",
+      "prices": [
+       "145"
+      ]
+     },
+     {
+      "name": "Cuvertură cu dimensiuni mai mari de 3 m.p.",
+      "prices": [
+       "245"
+      ]
+     },
+     {
+      "name": "Draperii groase sau duble",
+      "prices": [
+       "37"
+      ],
+      "unit": "m²"
+     },
+     {
+      "name": "Draperii subţiri, perdele din tul",
+      "prices": [
+       "27"
+      ],
+      "unit": "m²"
+     },
+     {
+      "name": "Geantă, ghiozdan, poșetă",
+      "prices": [
+       "195"
+      ]
+     },
+     {
+      "name": "Husă subțire de protecție saltea",
+      "prices": [
+       "65"
+      ],
+      "unit": "m²"
+     },
+     {
+      "name": "Jucărie moale cu greutatea 1.0-2.0кg.",
+      "prices": [
+       "85"
+      ]
+     },
+     {
+      "name": "Jucărie moale cu greutatea 2 - 3 кg.",
+      "prices": [
+       "120"
+      ]
+     },
+     {
+      "name": "Jucărie moale cu greutatea 3 - 4 kg.",
+      "prices": [
+       "150"
+      ]
+     },
+     {
+      "name": "Jucărie moale cu greutatea 4 - 5 кg",
+      "prices": [
+       "180"
+      ]
+     },
+     {
+      "name": "Jucărie moale cu greutatea până la 1.0кg.",
+      "prices": [
+       "40"
+      ]
+     },
+     {
+      "name": "Pătură din lână, amestec de lână - 1 persoană",
+      "prices": [
+       "190"
+      ]
+     },
+     {
+      "name": "Pernă din sintepon (50x50)",
+      "prices": [
+       "70"
+      ]
+     },
+     {
+      "name": "Pernă din sintepon (50x70)",
+      "prices": [
+       "80"
+      ]
+     },
+     {
+      "name": "Plapumă 2 persoane din lână, amestec de lână / sintepon",
+      "prices": [
+       "300",
+       "260"
+      ]
+     },
+     {
+      "name": "Plapumă 2 persoane din lână, amestec de lână, sintepon / dublă",
+      "prices": [
+       "365",
+       "320"
+      ]
+     },
+     {
+      "name": "Plapumă din lână, amestec de lână, sintepon - 1 persoană",
+      "prices": [
+       "245",
+       "215"
+      ]
+     },
+     {
+      "name": "Plapumă din puf - 2 persoane / dublă",
+      "prices": [
+       "315",
+       "365"
+      ]
+     },
+     {
+      "name": "Plapumă din puf - 1 persoană",
+      "prices": [
+       "285"
+      ]
+     },
+     {
+      "name": "Pled - 1 persoană",
+      "prices": [
+       "190"
+      ]
+     },
+     {
+      "name": "Pled - 2 persoane / dublu",
+      "prices": [
+       "205",
+       "310"
+      ]
+     },
+     {
+      "name": "Pled dublu - 2 persoane",
+      "prices": [
+       "310"
+      ]
+     },
+     {
+      "name": "Sac de dormit din puf",
+      "prices": [
+       "360"
+      ]
+     },
+     {
+      "name": "Sac de dormit din sintepon",
+      "prices": [
+       "300"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 11,
+    "title": "Îmbrăcăminte de lucru",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Bonetă, beretă, chipiu",
+      "prices": [
+       "45"
+      ]
+     },
+     {
+      "name": "Cămaşă",
+      "prices": [
+       "70"
+      ]
+     },
+     {
+      "name": "Combinezon (salopetă)",
+      "prices": [
+       "125"
+      ]
+     },
+     {
+      "name": "Giacă (salopetă)",
+      "prices": [
+       "160",
+       "140"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "160"
+       },
+       {
+        "label": "fără glugă",
+        "price": "140"
+       }
+      ]
+     },
+     {
+      "name": "Halat de lucru",
+      "prices": [
+       "95"
+      ]
+     },
+     {
+      "name": "Pantaloni (salopetă)",
+      "prices": [
+       "110"
+      ]
+     },
+     {
+      "name": "Pantaloni cu pieptar (salopetă)",
+      "prices": [
+       "120"
+      ]
+     },
+     {
+      "name": "Şorţ incl. cu pieptar",
+      "prices": [
+       "70"
+      ]
+     },
+     {
+      "name": "Trenci, pelerină",
+      "prices": [
+       "200",
+       "170"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "200"
+       },
+       {
+        "label": "fără glugă",
+        "price": "170"
+       }
+      ]
+     },
+     {
+      "name": "Tricou cu mâneci lungi",
+      "prices": [
+       "70"
+      ]
+     },
+     {
+      "name": "Tricou fără mâneci",
+      "prices": [
+       "55"
+      ]
+     },
+     {
+      "name": "Veșminte preotești",
+      "prices": [
+       "350"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 37,
+    "title": "Îmbrăcăminte de lucru (groasă, de iarnă)",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Combinezon (salopetă) cu căptuşeală călduroasă",
+      "prices": [
+       "215"
+      ]
+     },
+     {
+      "name": "Pantaloni (groși, cu căptușeală)",
+      "prices": [
+       "120"
+      ]
+     },
+     {
+      "name": "Scurtă",
+      "prices": [
+       "250",
+       "220"
+      ],
+      "variants": [
+       {
+        "label": "cu glugă",
+        "price": "250"
+       },
+       {
+        "label": "fără glugă",
+        "price": "220"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": 17,
+    "title": "Piele, blănuri (naturale)",
+    "suspended": true,
+    "rows": [
+     {
+      "name": "Blană scurtă (iepure,câine,nutrie,caracul)",
+      "prices": [
+       "445"
+      ]
+     },
+     {
+      "name": "Blană scurtă (vulpe, nurcă)",
+      "prices": [
+       "525"
+      ]
+     },
+     {
+      "name": "Căciulă",
+      "prices": [
+       "110"
+      ]
+     },
+     {
+      "name": "Cămaşă",
+      "prices": [
+       "435"
+      ]
+     },
+     {
+      "name": "Chipiu",
+      "prices": [
+       "120"
+      ]
+     },
+     {
+      "name": "Cojoc (lungimea 60-90 cm)",
+      "prices": [
+       "565"
+      ]
+     },
+     {
+      "name": "Cojoc (lungimea peste 90 cm)",
+      "prices": [
+       "615"
+      ]
+     },
+     {
+      "name": "Cojoc <60 cm",
+      "prices": [
+       "530"
+      ]
+     },
+     {
+      "name": "Fustă",
+      "prices": [
+       "300"
+      ]
+     },
+     {
+      "name": "Guler (vulpe, nurcă)",
+      "prices": [
+       "145"
+      ]
+     },
+     {
+      "name": "Jiletcă",
+      "prices": [
+       "265"
+      ]
+     },
+     {
+      "name": "Mănuşi",
+      "prices": [
+       "110"
+      ]
+     },
+     {
+      "name": "Palton",
+      "prices": [
+       "615"
+      ]
+     },
+     {
+      "name": "Pantaloni",
+      "prices": [
+       "400"
+      ]
+     },
+     {
+      "name": "Rochie",
+      "prices": [
+       "460"
+      ]
+     },
+     {
+      "name": "Sacou",
+      "prices": [
+       "470"
+      ]
+     },
+     {
+      "name": "Scurtă",
+      "prices": [
+       "555"
+      ]
+     },
+     {
+      "name": "Şubă (iepure, câine, nutrie, caracul)",
+      "prices": [
+       "525"
+      ]
+     },
+     {
+      "name": "Şubă (vulpe, nurca)",
+      "prices": [
+       "675"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 18,
+    "title": "Piele, blănuri (artificiale)",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Căciulă",
+      "prices": [
+       "90"
+      ]
+     },
+     {
+      "name": "Cojoc (lungimea până la 90 cm)",
+      "prices": [
+       "295"
+      ]
+     },
+     {
+      "name": "Cojoc (lungimea peste 90 cm)",
+      "prices": [
+       "350"
+      ]
+     },
+     {
+      "name": "Şubă",
+      "prices": [
+       "315"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 25,
+    "title": "Încălţăminte (piele, jamşă, textile)",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Cizme",
+      "prices": [
+       "290",
+       "210"
+      ],
+      "variants": [
+       {
+        "label": "piele",
+        "price": "290"
+       },
+       {
+        "label": "textile",
+        "price": "210"
+       }
+      ]
+     },
+     {
+      "name": "Cizme scurte",
+      "prices": [
+       "210",
+       "150"
+      ],
+      "variants": [
+       {
+        "label": "piele",
+        "price": "210"
+       },
+       {
+        "label": "textile",
+        "price": "150"
+       }
+      ]
+     },
+     {
+      "name": "Ghete, bocanci",
+      "prices": [
+       "170",
+       "110"
+      ],
+      "variants": [
+       {
+        "label": "piele",
+        "price": "170"
+       },
+       {
+        "label": "textile",
+        "price": "110"
+       }
+      ]
+     },
+     {
+      "name": "Pantofi, mocasini, adidași",
+      "prices": [
+       "170",
+       "110"
+      ],
+      "variants": [
+       {
+        "label": "din piele",
+        "price": "170"
+       },
+       {
+        "label": "textile",
+        "price": "110"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": 38,
+    "title": "Curățare covoare",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Ambalarea covoarelor",
+      "prices": [
+       "20"
+      ],
+      "unit": "covor"
+     },
+     {
+      "name": "Covoare de producție manuală, sau covoare deosebit de murdare",
+      "prices": [
+       "50"
+      ],
+      "unit": "m²"
+     },
+     {
+      "name": "Covoare absorbante antimurdărie",
+      "prices": [
+       "60"
+      ]
+     },
+     {
+      "name": "Covoare, covoare pluşate, mochetă (cu lungimea/lăţimea >6m şi suprafaţa mai mare de 24 m.p)",
+      "prices": [
+       "55"
+      ],
+      "unit": "m²"
+     },
+     {
+      "name": "Covoare, covoare pluşate, mochetă (grosime <10mm)",
+      "prices": [
+       "40"
+      ],
+      "unit": "m²"
+     },
+     {
+      "name": "Covoare, covoare pluşate, mochetă (grosime >10mm)",
+      "prices": [
+       "45"
+      ],
+      "unit": "m²",
+      "note": "Punct de colectare covoare: str. Maria Drăgan, 28/3"
+     },
+     {
+      "name": "Prelucrarea contra molii",
+      "prices": [
+       "20"
+      ],
+      "unit": "m²"
+     }
+    ]
+   },
+   {
+    "id": 39,
+    "title": "Curățare perne",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Curățarea penelor",
+      "prices": [
+       "16"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Modificarea dimensiunilor plicului pentru perne sau confecționarea plicului din țesătura clientului",
+      "prices": [
+       "20"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Plic 40x40",
+      "prices": [
+       "55"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Plic 40x60",
+      "prices": [
+       "65"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Plic 50x50",
+      "prices": [
+       "70"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Plic 50x70",
+      "prices": [
+       "90"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Plic 60x60",
+      "prices": [
+       "90"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Plic 70x70",
+      "prices": [
+       "100"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Plic 80x80",
+      "prices": [
+       "110"
+      ],
+      "unit": "buc"
+     }
+    ]
+   },
+   {
+    "id": 5,
+    "title": "Spălatul lenjeriei",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Îmbrăcăminte de lucru (fără călcare)",
+      "prices": [
+       "45"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Apretare cu amidon",
+      "prices": [
+       "5"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Călcatul lenjeriei după spălat",
+      "prices": [
+       "30"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Draperii, perdele din tul (fără călcare)",
+      "prices": [
+       "45"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Lenjerie de bucătărie (fețe de masă)",
+      "prices": [
+       "38"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Lenjerie de bucătărie (șergărele)",
+      "prices": [
+       "38"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Lenjerie de pat şi de corp",
+      "prices": [
+       "33"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Pături, cuverturi groase",
+      "prices": [
+       "45"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Pled",
+      "prices": [
+       "100"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Servicii de spălat combinate cu curățarea chimică",
+      "prices": [
+       "100"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Covoare subţiri",
+      "prices": [
+       "45"
+      ],
+      "unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 14,
+    "title": "Piele, cojoace, încălţăminte (incl. curățarea chimică)",
+    "suspended": true,
+    "rows": [
+     {
+      "name": "Cămaşă",
+      "prices": [
+       "525"
+      ]
+     },
+     {
+      "name": "Centură",
+      "prices": [
+       "110"
+      ]
+     },
+     {
+      "name": "Chipiu",
+      "prices": [
+       "140"
+      ]
+     },
+     {
+      "name": "Cizme înalte",
+      "prices": [
+       "270"
+      ]
+     },
+     {
+      "name": "Cojoc (lungimea până la 60 cm)",
+      "prices": [
+       "735"
+      ]
+     },
+     {
+      "name": "Fustă",
+      "prices": [
+       "430"
+      ]
+     },
+     {
+      "name": "Geantă, poşetă",
+      "prices": [
+       "220"
+      ]
+     },
+     {
+      "name": "Jiletcă",
+      "prices": [
+       "340"
+      ]
+     },
+     {
+      "name": "Mănuşi",
+      "prices": [
+       "150"
+      ]
+     },
+     {
+      "name": "Pantaloni",
+      "prices": [
+       "525"
+      ]
+     },
+     {
+      "name": "Pantofi, ghete, mocasini, adidași",
+      "prices": [
+       "205"
+      ]
+     },
+     {
+      "name": "Sacou",
+      "prices": [
+       "595"
+      ]
+     },
+     {
+      "name": "Sandale, ciupici",
+      "prices": [
+       "130"
+      ]
+     },
+     {
+      "name": "Scurtă",
+      "prices": [
+       "735"
+      ]
+     }
+    ]
+   }
+  ],
+  "rules": {
+   "title": "REGULAMENT PRIVIND CONDIȚllLE DE PRESTARE A SERVICIILOR DE CURĂŢĂTORIE - SPĂLĂTORIE",
+   "text": "1. SA ”Nufărul”, în calitate de prestator - prestează clienţilor (persoane fizice şi juridice) servicii de curăţătorie - spălătorie în conformitate cu prezentul “Regulament privind condiţiile de prestaţie”, Standardele profesionale SP-MD 03-04-006-98 “Curăţarea chimică a confecţiilor”, SP MD 03-04-002-99 „Lenjeria prelucrată la spălătorii”, „Regulile de deservire socială a populaţiei”, „Legea privind protecţia consumatorilor”, alte acte legislative în vigoare. 2. Produsele textile, piele, blănuri, pene-puf, covoare, etc. predate prestatorului, în vederea prestării serviciilor de curăţătorie - spălătorie se presupune a fi atent verificate anterior de clienţi privind existenţa: sume de bani, bijuterii, pietre preţioase, accesorii şi bunuri de valoare şi, care au fost îndepărtate/ preluate de clienţi - prestatorul nu le va prelua în nici o situaţie in vederea păstrării şi nu va fi făcut responsabil în legătură cu potenţiala existenta a acestora după preluarea produselor în proces. 3. Termenul pentru prestarea serviciilor de curăţătorie - spălătorie se stabileşte in funcţie de: a) solicitările clienţilor; b) procedeul de curăţare - spălare; c) gradul și tipul de murdărie/numărul de pete sau suprafața pătata; d) tipul, volumul, modalitatea de prindere a accesoriilor sau aplicațiilor; e) dimensiunile obiectelor (covoare foarte mari); f) cantitatea; g) capacitatea de procesare; h) alte criterii care pot influența termenul. Acest termen este adus la cunoștința clientului de către manager la primirea produsului pentru perfectarea comenzii şi va putea fi prelungit daca în procesul de curăţare sau spălare se întâmpina dificultăți care nu au putut fi anticipate la predarea acestora sau acestea au fost imprevizibile. 4. Conform Standardului SP-MD 03-04-006-98 “Curăţarea chimică a confecţiilor” în procesul de curăţare/spălare pot apărea următoarele defecte admisibile: 4.1 la covoare, mochetă: a) degradarea bazei covoarelor provocată de acţiunea moliilor, mucegaiului, substanţelor chimice toxice dezinfectante, uzarea apretării cu răşini sintetice; b) ruperea şi apariţia cifrelor şi ştampilelor, puse de întreprinderea producătoare pe baza covoarelor, prelucrate cu soluţii apoase de detergenţi; c) zdremţuirea marginilor nesurfilate ale covoarelor, 4.2 la textile: a) zone albite care apar în locurile dogorâte ale confecţiilor din ţesaturi ce conţin fibre de lavsan. b) zone albite care apar în locurile supuse frecării intensive şi acţiunii sudorii şi grăsimii în procesul exploatării (la îndoiturile mânecilor, la manşete, la gulere , la cusături , la buzunare); c) ruperea perdelelor slăbite puternic de la acţiunea permanentă a razelor solare şi temperaturii înalte provenite de la aparate de încălzire; d) uzarea şi slăbirea ţesăturii în locurile roase (mărginile mânicelor, manşetele pantalonilor, îndoiturile gulerelor), confecţiilor uzate puternic, defectarea locurilor cârpite, mâncate de molii, precum şi zdremţuirea căptuşelii de la cusături; e) deformarea confecţiilor cu garnitura pe clei sau fără clei (guler, manşetă, marginea hainei); f) lăsarea în jos a căptuşelii călduroase neîntărite din sintipon şi puf; g) modificarea culorii albe la confecţiile alb-negre sau multicolore; h) modificarea formei desenului la jucăriile din blană artificială executat prin metoda aerografă; i) deteriorarea furniturii nedetaşabile; 4.3 la produsele din piele naturală şi artificială: a) modificarea culorii, diferenţa de nuanţe la confecţiile din piele velurată, şplat, velur, “velur din blana“, blana de oaie; b) modificarea culorii la confecţii din cauza vopsirii primare necalitative; c) zone albite care apar în locurile supuse frecării intensive şi acţiunii sudorii şi grăsimii în procesul exploatării (la îndoiturile mânecilor, la manşete, la buzunare, la gulere, la cusături) confecţiilor din piele velurată, şplat, velur, “velur din blana“, blană de oaie; d) modificarea formei desenului obţinut prin metoda termică de prelucrare la confecţiile din blana artificială; e) vopsirea neuniforma a detaliilor articolului, croite din ţesătură şi piele diferită; f) vopsirea neuniformă a locurilor puternic arse şi roase (terminaţiile mînecelor, gulerelor), îngălbenite şi înnegrite; g) vopsirea neuniformă a articolelor confecţionate în condiţii casnice; h) intensificarea scămoşeniei pielei la articolele din piele moale; i) creşterea neînsemnată a rigidităţii articolelor; j) acoperiri de nuanţe variate condiţionate de calitatea pielei şi blănii, din care este cusut articolul şi acoperirea lui; k) articolele din blană artificială cu strat adesiv din latex pe suport de tricot, care au semne de învechire a latexului, la revopsire nu se primesc întru evitarea distrucţiei definitive a lor; 4.4 la pernele din pene şi fulgi; a) sunt posibile pierderi a greutăţii iniţiale a amestecului de pene şi fulgi (între 3% şi 60%, valoarea medie – 25 % ). 5. Confecţiile din pene şi fulgi pot fi curăţate în prezenţa şi fără prezenţa beneficiarul. În cazul când pernele din pene şi fulgi sunt curăţate fără prezenţa clientului semnarea bonului de comanda se considera acceptate de client posibilile pierderi indicate în p.4.4, a). 6. Conform Standardului SP MD 03-04-002-99 „Lenjeria prelucrată la spălătorii” garanţii la spălare calitativă nu se dau la produsele: a) cu pete neînlăturabile, care au fost puse în condiţii casnice sau în instituţiile curative (vopsea pentru păr si sprâncene, pete învechite de uleiuri vegetale, de firnis, do vopsea pe bază de ulei, de sânge, de rugină, de tuş, de cerneală, de medicamente, de fecalii ); b) colorate cu vopsea nerezistentă; c) vechi, care în procesul de prelucrare poate să se rupă; d) cu nasturi nerezistenţi la temperaturi înalte; e) draperiile, ştorurile, ce se pot rupe în timpul prelucrării din cauza distructurării fibrelor sub acţiunea luminii şi căldurii aparatelor de încălzire; f) gulere si manşete (impregnate) ale cămăşilor bărbăteşti nerezistente la spălat; g) cu defectele, indicate în documentele de însoţire, perfectate în timpul recepţiei la spălat. 7. Prestatorul este absolvit de orice răspundere in următoarele situații: a) la primirea obiectelor fără eticheta de întreținere, se primesc pentru prelucrare exclusiv pe răspunderea clientului; b) în cazul în care produsul, deși este curăţat conform etichetei de întreținere a firmei producătoare, se deteriorează - pentru determinarea cauzei se poate apela la concluzia expertului/specialistului, în situația unei concluzii îndreptățite, cheltuielile urmează a fi compensate; c) la solicitarea/cererea expresă a clientului se face prelucrarea produselor diferit decât instrucțiunile de pe eticheta de întreținere sau opiniei/recomandărilor specialistului din curăţătoria prestatorului. Prin întocmirea, verificarea și semnarea bonului de comanda, primirea unui exemplar de bon, solicitarea/cererea se considera expresă, produsul fiind transmis pentru prelucrare; d) petele dificile (pete fixate sau pete vechi, ce au străpuns materialul pe care sunt prezente - se văd pe dosul/versoul materialului, pete de culoare migrată ca urmare a spălării casnice cu obiecte de o alta culoare), care nu cedează în urma proceselor repetate de detașare și curăţare, sau pentru obiecte cu uzura sau grad de murdărie avansat (căptușeli, întărituri, gulere, manșete, buzunare, etc., foarte murdare si/sau tocite), având în vedere faptul ca unele pete nu vor fi înlăturate în totalitate; e) eventuale deteriorări ale obiectelor ce sunt reproduse după mărci înregistrate, fără a respecta calitatea materialelor originale (eticheta de întreținere nu corespunde calităţii materialului, aceasta fiind reprodusă după original - nu prezintă holograma originală); f) eventuale modificări ale dimensiunilor sau deteriorări datorate unor vicii ascunse ale materialului (rezistența insuficientă a țesăturii, cusăturii, căptuşelilor, adezivilor sau a coloranţilor), precum si eventuale deteriorări ale accesoriilor din orice material (nasturi, catarame, fermoare, cheiţe ale fermoarelor, obiecte decorative aplicate sau cusute, etc.); g) neexecutarea la termen a prestaţiei datorită unor cauze imprevizibile și inevitabile (lipsa energiei electrice, a apei, depăşirea capacităţii de producţie sau alte cauze obiective); h) de pierdere/furt a bonului de comandă, care constituie temei de eliberare a produselor către deținătorul bonului de comandă. 8. Întocmirea, perfectarea, verificarea și semnarea bonului de comanda de către client reprezintă - acordul clientului ca prestatorul să efectuaeze prestaţia indicată; a indicat expres starea produsului, a luat cunoştinţa de condițiile și starea tehnologică ale prestației; îşi pierde dreptul la retragerea sumei plătite după executarea completa a serviciului de către prestator. 9. În urma prelucrării obiectelor din blană naturală, piele lucioasă, cojoc, piele velurată, acestea pot suferi modificări de culoare datorate unor defecte de tăbăcire, tanare şi vopsire, sau orice alte deteriorări cauzate de un finisaj necorespunzător, motiv pentru care prestaţia acestor obiecte se va face numai pe riscul clientului. 10. Preturile vor fi percepute conform listei de preţuri în vigoare, iar pentru regim de urgenţa preţurile se majorează faţă de preţurile de listă conform”Regulamentului privind utilizarea cataloagelor de prețuri”. Dacă din lista de preţuri lipseşte denumirea unui obiect, preţul se va stabili prin raportare la preţul articolelor care au forma, croiala asemănătoare, destinație, greutate sau în funcție de cantitatea de munca depusa și semnarea de către client a bonului de comandă/chitanţă indicând acceptul clientului pentru planul tarifar aplicat. Plata se achită anticipat sau la eliberarea comenzii. 11. În ceea ce privește uzura, ambele parţi recunosc, uzura stabilită în % înscrisa în bonul de comandă pentru orice obiect predat prestatorului. În cazul când uzura nu este înscrisă în bonul de comanda părţile recunosc o uzură de 50% pentru orice obiect predat. 12. Prestatorul își rezerva dreptul de a refuza obiectele ce prezintă grad de uzură avansat sau emană mirosuri dezagreabile/au un aspect respingător sau prezintă factori de infecție. 13. În cazul deteriorării unui obiect, in cadrul procesului tehnologic de curăţare - spălare, din vina exclusivă a prestatorului, în cazul pierderii din cauza prestatorului (eliberat greşit altui client) sau al furtului din unitate constatat de organele de politie, prestatorul va despăgubi clientul conform Legislației RM în vigoare. 14. În cazul deteriorării, pierderii sau furtului unui produs, care face parte dintr-un set (costum, gamă, colecţie, etc.) se despăgubeşte conform art.13 de mai sus, numai produsul care face obiectul deteriorării, pierderii sau furtului. 15. Eventuale obiecţii referitoare la calitatea prestaţiei pot fi făcute exclusiv în momentul ridicării produselor, reclamaţiile ulterioare nu vor fi luate in consideraţie. Clienţii, care din anumite motive solicită reprocesarea produselor în momentul ridicării acestora, pot fi luate retur (la reprelucrare). 16. Restituirea obiectelor se face în urma prezentării în original a bonului de comandă sau în cazul pierderii acestuia în baza unui act, care să confirme identitatea și adresa persoanei care ridica comanda, respectiv prin completarea și semnarea unui proces - verbal. 17. Neridicarea în termen de peste 30 zile a obiectelor se taxează cu până la 50% din valoarea prestaţiei. 18. Pentru orice produs adus pentru servicii de curăţătorie - spălătorie, ce depăşeşte valoarea de 4000 de lei, clientul are obligaţia să declare valoarea acestuia, iar prestaţia va fi de 10 % din valoarea declarată. 19. Aceste condiţii: a) sunt întocmite în baza standardelor profesionale, experiența în domeniu a prestatorului şi a legislaţiei în vigoare; b) reprezintă elemente ale unui contract între client şi prestator, fiind acceptat de catre ambele parti, din momentul semnării de catre client a bonului de comanda; c) vor fi afişate la vedere în puncul de recepţie şi publicate pe pagina web a SA ”Nufărul” -www.nufarul.com. Administraţia “NUFĂRUL”S.A. A elaborat: Cazacu Leonid ________________Șef secție marketing și vânzări Data: 07.02.2023"
+  }
+ },
+ "ru": {
+  "categories": [
+   {
+    "id": 35,
+    "title": "Доставка заказов",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Все секторы города: Ботаника, Буюканы, Центр, Рышкановка, Чеканы (включая Coloniţa, Bubuieci, Tohatin).",
+      "prices": [
+       "90"
+      ],
+      "unit": "order",
+      "from": true
+     },
+     {
+      "name": "Пригороды и сёла мун. Кишинэу (включая Durleşti, Dumbrava, Stăuceni, Grătieşti, Cruzești, Codru, Aeroport, Bacioi, Sângera, Bâc, Cricova)",
+      "prices": [
+       "150"
+      ],
+      "unit": "order",
+      "from": true
+     },
+     {
+      "name": "По всей Молдове",
+      "prices": [
+       "6"
+      ],
+      "unit": "km",
+      "from": true
+     }
+    ]
+   },
+   {
+    "id": 9,
+    "title": "Одежда из текстиля",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Блуза (с аппликациями из кожи)",
+      "prices": [
+       "190"
+      ]
+     },
+     {
+      "name": "Блуза",
+      "prices": [
+       "140",
+       "110"
+      ],
+      "variants": [
+       {
+        "label": "с длинным рукавом",
+        "price": "140"
+       },
+       {
+        "label": "с коротким рукавом",
+        "price": "110"
+       }
+      ]
+     },
+     {
+      "name": "Брюки на утепленной подкладке (вкл. для лыжников)",
+      "prices": [
+       "185"
+      ]
+     },
+     {
+      "name": "Брюки с кожаными аппликациями",
+      "prices": [
+       "275"
+      ]
+     },
+     {
+      "name": "Брюки, джинсы",
+      "prices": [
+       "135"
+      ]
+     },
+     {
+      "name": "Вуаль",
+      "prices": [
+       "105"
+      ]
+     },
+     {
+      "name": "Галстук",
+      "prices": [
+       "55"
+      ]
+     },
+     {
+      "name": "Демисезонное пальто",
+      "prices": [
+       "330",
+       "300"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "330"
+       },
+       {
+        "label": "без капюшона",
+        "price": "300"
+       }
+      ]
+     },
+     {
+      "name": "Жилет",
+      "prices": [
+       "120",
+       "100"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "120"
+       },
+       {
+        "label": "без капюшона",
+        "price": "100"
+       }
+      ]
+     },
+     {
+      "name": "Жилет на пуху, синтепоне (демисезонное)",
+      "prices": [
+       "235",
+       "195"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "235"
+       },
+       {
+        "label": "без капюшона",
+        "price": "195"
+       }
+      ]
+     },
+     {
+      "name": "Жилет на пуху, синтепоне",
+      "prices": [
+       "270",
+       "230"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "270"
+       },
+       {
+        "label": "без капюшона",
+        "price": "230"
+       }
+      ]
+     },
+     {
+      "name": "Комбинезон",
+      "prices": [
+       "220"
+      ]
+     },
+     {
+      "name": "Комбинезон с подкладкой",
+      "prices": [
+       "300"
+      ]
+     },
+     {
+      "name": "Куртка из тонкой ткани Vindiac (Ветровка), джинсовая куртка",
+      "prices": [
+       "205",
+       "185"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "205"
+       },
+       {
+        "label": "без капюшона",
+        "price": "185"
+       }
+      ]
+     },
+     {
+      "name": "Куртка на пуху (демисезонное)",
+      "prices": [
+       "295",
+       "265"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "295"
+       },
+       {
+        "label": "без капюшона",
+        "price": "265"
+       }
+      ]
+     },
+     {
+      "name": "Куртка на пуху",
+      "prices": [
+       "340",
+       "300"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "340"
+       },
+       {
+        "label": "без капюшона",
+        "price": "300"
+       }
+      ]
+     },
+     {
+      "name": "Куртка на ситепоне (демисезонное)",
+      "prices": [
+       "260",
+       "230"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "260"
+       },
+       {
+        "label": "без капюшона",
+        "price": "230"
+       }
+      ]
+     },
+     {
+      "name": "Куртка на утеплённой подкладке из натурального меха",
+      "prices": [
+       "330",
+       "290"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "330"
+       },
+       {
+        "label": "без капюшона",
+        "price": "290"
+       }
+      ]
+     },
+     {
+      "name": "Куртка на утеплённой подкладке из синтепона",
+      "prices": [
+       "325",
+       "285"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "325"
+       },
+       {
+        "label": "без капюшона",
+        "price": "285"
+       }
+      ]
+     },
+     {
+      "name": "Куртка от нейлонового спротивного о костюма",
+      "prices": [
+       "135",
+       "115"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "135"
+       },
+       {
+        "label": "без капюшона",
+        "price": "115"
+       }
+      ]
+     },
+     {
+      "name": "Майка трикотажная",
+      "prices": [
+       "55"
+      ]
+     },
+     {
+      "name": "Носки",
+      "prices": [
+       "40"
+      ]
+     },
+     {
+      "name": "Пальто зимнее, кашемировое",
+      "prices": [
+       "365",
+       "325"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "365"
+       },
+       {
+        "label": "без капюшона",
+        "price": "325"
+       }
+      ]
+     },
+     {
+      "name": "Пальто короткое зимнее, пальто короткое из кашемира",
+      "prices": [
+       "340",
+       "300"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "340"
+       },
+       {
+        "label": "без капюшона",
+        "price": "300"
+       }
+      ]
+     },
+     {
+      "name": "Пальто короткое на пуху, синтепоне",
+      "prices": [
+       "340",
+       "300"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "340"
+       },
+       {
+        "label": "без капюшона",
+        "price": "300"
+       }
+      ]
+     },
+     {
+      "name": "Пальто на пуху, синтепоне",
+      "prices": [
+       "370",
+       "330"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "370"
+       },
+       {
+        "label": "без капюшона",
+        "price": "330"
+       }
+      ]
+     },
+     {
+      "name": "Перчатки",
+      "prices": [
+       "45"
+      ]
+     },
+     {
+      "name": "Пиджак",
+      "prices": [
+       "165"
+      ]
+     },
+     {
+      "name": "Пиджак (свыше 85 см.), кардиган",
+      "prices": [
+       "190"
+      ]
+     },
+     {
+      "name": "Пиджак из пальтовой ткани",
+      "prices": [
+       "205"
+      ]
+     },
+     {
+      "name": "Пижама",
+      "prices": [
+       "115",
+       "100"
+      ],
+      "variants": [
+       {
+        "label": "толстая",
+        "price": "115"
+       },
+       {
+        "label": "тонкая",
+        "price": "100"
+       }
+      ]
+     },
+     {
+      "name": "Платье",
+      "prices": [
+       "170",
+       "210"
+      ],
+      "variants": [
+       {
+        "label": "простое",
+        "price": "170"
+       },
+       {
+        "label": "сложное",
+        "price": "210"
+       }
+      ]
+     },
+     {
+      "name": "Платье вечернее",
+      "prices": [
+       "230",
+       "250"
+      ],
+      "variants": [
+       {
+        "label": "simplă",
+        "price": "230"
+       },
+       {
+        "label": "complicată",
+        "price": "250"
+       }
+      ]
+     },
+     {
+      "name": "Платье длинное",
+      "prices": [
+       "290",
+       "390"
+      ],
+      "variants": [
+       {
+        "label": "простое",
+        "price": "290"
+       },
+       {
+        "label": "сложное",
+        "price": "390"
+       }
+      ]
+     },
+     {
+      "name": "Платье свадебное (с макс. 2 - мя юбками)",
+      "prices": [
+       "480"
+      ]
+     },
+     {
+      "name": "Платье свадебное (сложное, или объемное с 3-мя юбками)",
+      "prices": [
+       "600"
+      ]
+     },
+     {
+      "name": "Платье свадебное (сложное, или объемное с мин. 4-мя юбками или со шлейфом)",
+      "prices": [
+       "885"
+      ]
+     },
+     {
+      "name": "Плащ",
+      "prices": [
+       "260"
+      ]
+     },
+     {
+      "name": "Плащ на подкладке из меха",
+      "prices": [
+       "315",
+       "260"
+      ],
+      "variants": [
+       {
+        "label": "натурального",
+        "price": "315"
+       },
+       {
+        "label": "синтетического",
+        "price": "260"
+       }
+      ]
+     },
+     {
+      "name": "Подкладка из искусственного меха",
+      "prices": [
+       "200",
+       "160"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "200"
+       },
+       {
+        "label": "без капюшона",
+        "price": "160"
+       }
+      ]
+     },
+     {
+      "name": "Подкладка из натурального меха",
+      "prices": [
+       "305",
+       "265"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "305"
+       },
+       {
+        "label": "без капюшона",
+        "price": "265"
+       }
+      ]
+     },
+     {
+      "name": "Поло, футболка, раглан",
+      "prices": [
+       "75",
+       "65"
+      ],
+      "variants": [
+       {
+        "label": "с рукавами",
+        "price": "75"
+       },
+       {
+        "label": "без рукавов",
+        "price": "65"
+       }
+      ]
+     },
+     {
+      "name": "Рубашка",
+      "prices": [
+       "85"
+      ]
+     },
+     {
+      "name": "Рубашка из шелка",
+      "prices": [
+       "115"
+      ]
+     },
+     {
+      "name": "Рубашка сложного покроя",
+      "prices": [
+       "100"
+      ]
+     },
+     {
+      "name": "Свитер, жакет, джемпер, пуловер",
+      "prices": [
+       "130",
+       "105"
+      ],
+      "variants": [
+       {
+        "label": "с длинным рукавом",
+        "price": "130"
+       },
+       {
+        "label": "с коротким рукавом",
+        "price": "105"
+       }
+      ]
+     },
+     {
+      "name": "Спортивный костюм",
+      "prices": [
+       "200"
+      ]
+     },
+     {
+      "name": "Тонкая шапка, кепка, берет",
+      "prices": [
+       "75"
+      ]
+     },
+     {
+      "name": "Халат длинный",
+      "prices": [
+       "135",
+       "115"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "135"
+       },
+       {
+        "label": "без капюшона",
+        "price": "115"
+       }
+      ]
+     },
+     {
+      "name": "Халат короткий",
+      "prices": [
+       "125",
+       "105"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "125"
+       },
+       {
+        "label": "без капюшона",
+        "price": "105"
+       }
+      ]
+     },
+     {
+      "name": "Шапка зимняя",
+      "prices": [
+       "100"
+      ]
+     },
+     {
+      "name": "Шарф, платок",
+      "prices": [
+       "60",
+       "90"
+      ],
+      "variants": [
+       {
+        "label": "<1m²",
+        "price": "60"
+       },
+       {
+        "label": ">1m²",
+        "price": "90"
+       }
+      ]
+     },
+     {
+      "name": "Юбка",
+      "prices": [
+       "120",
+       "130"
+      ],
+      "variants": [
+       {
+        "label": "<70 cm",
+        "price": "120"
+       },
+       {
+        "label": "> 70 cm",
+        "price": "130"
+       }
+      ]
+     },
+     {
+      "name": "Юбка (плисе,гофре,складки)",
+      "prices": [
+       "150"
+      ]
+     },
+     {
+      "name": "Юбка вязанная",
+      "prices": [
+       "130",
+       "140"
+      ],
+      "variants": [
+       {
+        "label": "<70 cm",
+        "price": "130"
+       },
+       {
+        "label": "> 70 cm",
+        "price": "140"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": 12,
+    "title": "Другие изделия и вещи из текстиля",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Гардино - тюлевые изделия, шторы",
+      "prices": [
+       "27"
+      ],
+      "unit": "m²"
+     },
+     {
+      "name": "Драпировочные изделия, скатерти, дорожка половая нековровая, чехлы для автомобиля, накидка на диван",
+      "prices": [
+       "50"
+      ]
+     },
+     {
+      "name": "Изделия для спальни из длинно-петлевого полотна 2-х спальные",
+      "prices": [
+       "345"
+      ]
+     },
+     {
+      "name": "Изделия для спальни из длинно-петлевого полотна",
+      "prices": [
+       "275"
+      ]
+     },
+     {
+      "name": "Мягкие игрушки 3 - 4 кг.",
+      "prices": [
+       "150"
+      ]
+     },
+     {
+      "name": "Мягкие игрушки 4 - 5 кг.",
+      "prices": [
+       "180"
+      ]
+     },
+     {
+      "name": "Мягкие игрушки весом (1.0–2.0 кг)",
+      "prices": [
+       "85"
+      ]
+     },
+     {
+      "name": "Мягкие игрушки весом 2 - 3 kg.",
+      "prices": [
+       "120"
+      ]
+     },
+     {
+      "name": "Мягкие игрушки весом до 1 кг",
+      "prices": [
+       "40"
+      ]
+     },
+     {
+      "name": "Одеяло 2-х спальное шерстяное, полушерстяное, синтепоновое / двойное",
+      "prices": [
+       "365",
+       "320"
+      ]
+     },
+     {
+      "name": "Одеяло 2-х спальное шерстяное, полушерстяное / синтепоновое",
+      "prices": [
+       "300",
+       "260"
+      ]
+     },
+     {
+      "name": "Одеяло пуховое",
+      "prices": [
+       "285"
+      ]
+     },
+     {
+      "name": "Одеяло пуховое 2-х спальное / двойное",
+      "prices": [
+       "315",
+       "365"
+      ]
+     },
+     {
+      "name": "Одеяло стёганое шерстяное, полушерстяное / синтепоновое - односпальное",
+      "prices": [
+       "245",
+       "215"
+      ]
+     },
+     {
+      "name": "Одеяло шерстяное, полушерстяное",
+      "prices": [
+       "190"
+      ]
+     },
+     {
+      "name": "Плед",
+      "prices": [
+       "190"
+      ]
+     },
+     {
+      "name": "Плед 2-х спальный /двойной",
+      "prices": [
+       "205",
+       "310"
+      ]
+     },
+     {
+      "name": "Плед дублированный 2-х спальный",
+      "prices": [
+       "310"
+      ]
+     },
+     {
+      "name": "Подушка на синтепоне (50x50)",
+      "prices": [
+       "70"
+      ]
+     },
+     {
+      "name": "Подушка на синтепоне (50x70)",
+      "prices": [
+       "80"
+      ]
+     },
+     {
+      "name": "Покрывало с размером более 3 кв.м",
+      "prices": [
+       "245"
+      ]
+     },
+     {
+      "name": "Покрывало с размером до 3 кв.м",
+      "prices": [
+       "145"
+      ]
+     },
+     {
+      "name": "Спальный мешок на пуху",
+      "prices": [
+       "360"
+      ]
+     },
+     {
+      "name": "Спальный мешок на синтепоне",
+      "prices": [
+       "300"
+      ]
+     },
+     {
+      "name": "Сумка, ранец",
+      "prices": [
+       "195"
+      ]
+     },
+     {
+      "name": "Чехол для матраса из тонкой ткани",
+      "prices": [
+       "65"
+      ],
+      "unit": "m²"
+     },
+     {
+      "name": "Шторы на подкладке",
+      "prices": [
+       "37"
+      ],
+      "unit": "m²"
+     }
+    ]
+   },
+   {
+    "id": 11,
+    "title": "Рабочая одежда",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Брюки",
+      "prices": [
+       "110"
+      ]
+     },
+     {
+      "name": "Бонетка, берет, бейсболка",
+      "prices": [
+       "45"
+      ]
+     },
+     {
+      "name": "Комбинезон",
+      "prices": [
+       "125"
+      ]
+     },
+     {
+      "name": "Куртка",
+      "prices": [
+       "160",
+       "140"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "160"
+       },
+       {
+        "label": "без капюшона",
+        "price": "140"
+       }
+      ]
+     },
+     {
+      "name": "Одежда священнослужителей",
+      "prices": [
+       "350"
+      ]
+     },
+     {
+      "name": "Плащ, плащ-накидка",
+      "prices": [
+       "200",
+       "170"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "200"
+       },
+       {
+        "label": "без капюшона",
+        "price": "170"
+       }
+      ]
+     },
+     {
+      "name": "Полукомбинезон",
+      "prices": [
+       "120"
+      ]
+     },
+     {
+      "name": "Рубашка",
+      "prices": [
+       "70"
+      ]
+     },
+     {
+      "name": "Фартук",
+      "prices": [
+       "70"
+      ]
+     },
+     {
+      "name": "Футболка с длинным рукавом",
+      "prices": [
+       "70"
+      ]
+     },
+     {
+      "name": "Футболка с коротким рукавом",
+      "prices": [
+       "55"
+      ]
+     },
+     {
+      "name": "Халат рабочий",
+      "prices": [
+       "95"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 37,
+    "title": "Рабочая одежда (утеплённая, зимняя)",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Pants (thick, lined)",
+      "prices": [
+       "120"
+      ]
+     },
+     {
+      "name": "Комбинезон рабочий утепленный",
+      "prices": [
+       "215"
+      ]
+     },
+     {
+      "name": "Куртка длинная",
+      "prices": [
+       "250",
+       "220"
+      ],
+      "variants": [
+       {
+        "label": "с капюшоном",
+        "price": "250"
+       },
+       {
+        "label": "без капюшона",
+        "price": "220"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": 17,
+    "title": "Кожа, шубы (натуральные)",
+    "suspended": true,
+    "rows": [
+     {
+      "name": "Брюки",
+      "prices": [
+       "400"
+      ]
+     },
+     {
+      "name": "Воротник (волк, норка)",
+      "prices": [
+       "145"
+      ]
+     },
+     {
+      "name": "Дублёнка (60-90 см)",
+      "prices": [
+       "565"
+      ]
+     },
+     {
+      "name": "Дублёнка <60 cm",
+      "prices": [
+       "530"
+      ]
+     },
+     {
+      "name": "Дублёнка свыше 90 см.",
+      "prices": [
+       "615"
+      ]
+     },
+     {
+      "name": "Жилет",
+      "prices": [
+       "265"
+      ]
+     },
+     {
+      "name": "Кепи",
+      "prices": [
+       "120"
+      ]
+     },
+     {
+      "name": "Куртка",
+      "prices": [
+       "555"
+      ]
+     },
+     {
+      "name": "Пальто",
+      "prices": [
+       "615"
+      ]
+     },
+     {
+      "name": "Перчатки",
+      "prices": [
+       "110"
+      ]
+     },
+     {
+      "name": "Пиджак",
+      "prices": [
+       "470"
+      ]
+     },
+     {
+      "name": "Платье",
+      "prices": [
+       "460"
+      ]
+     },
+     {
+      "name": "Полушубок (волк,норка)",
+      "prices": [
+       "525"
+      ]
+     },
+     {
+      "name": "Рубашка",
+      "prices": [
+       "435"
+      ]
+     },
+     {
+      "name": "Шапка",
+      "prices": [
+       "110"
+      ]
+     },
+     {
+      "name": "Шуба (волк,норка)",
+      "prices": [
+       "675"
+      ]
+     },
+     {
+      "name": "Шуба (кролик, собака,нутрия,каракуль)",
+      "prices": [
+       "525"
+      ]
+     },
+     {
+      "name": "Шуба (кролик,собака,нутрия,каракуль)",
+      "prices": [
+       "445"
+      ]
+     },
+     {
+      "name": "Юбка",
+      "prices": [
+       "300"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 18,
+    "title": "Кожа, шубы (искусственные)",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Дублёнка до 90 см.",
+      "prices": [
+       "295"
+      ]
+     },
+     {
+      "name": "Дублёнка свыше 90 см.",
+      "prices": [
+       "350"
+      ]
+     },
+     {
+      "name": "Шапка",
+      "prices": [
+       "90"
+      ]
+     },
+     {
+      "name": "Шуба",
+      "prices": [
+       "315"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 25,
+    "title": "Обувь (из кожи, замши, текстиля)",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Ботики",
+      "prices": [
+       "170",
+       "110"
+      ],
+      "variants": [
+       {
+        "label": "кожа",
+        "price": "170"
+       },
+       {
+        "label": "текстиль",
+        "price": "110"
+       }
+      ]
+     },
+     {
+      "name": "Полусапожки",
+      "prices": [
+       "210",
+       "150"
+      ],
+      "variants": [
+       {
+        "label": "кожа",
+        "price": "210"
+       },
+       {
+        "label": "текстиль",
+        "price": "150"
+       }
+      ]
+     },
+     {
+      "name": "Сапожки",
+      "prices": [
+       "290",
+       "210"
+      ],
+      "variants": [
+       {
+        "label": "кожа",
+        "price": "290"
+       },
+       {
+        "label": "текстиль",
+        "price": "210"
+       }
+      ]
+     },
+     {
+      "name": "Туфли, мокасины, кроссовки",
+      "prices": [
+       "170",
+       "110"
+      ],
+      "variants": [
+       {
+        "label": "кожаные",
+        "price": "170"
+       },
+       {
+        "label": "из текстиля",
+        "price": "110"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": 38,
+    "title": "Химчистка ковров",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Антимолевая обработка",
+      "prices": [
+       "20"
+      ],
+      "unit": "m²"
+     },
+     {
+      "name": "Ковры грязезащитные",
+      "prices": [
+       "60"
+      ]
+     },
+     {
+      "name": "Ковры ручной работы, или сильно загрязненные ковры",
+      "prices": [
+       "50"
+      ],
+      "unit": "m²"
+     },
+     {
+      "name": "Ковры, паласы (с длинной/шириной >6 м и площадью более 24 кв.м.)",
+      "prices": [
+       "55"
+      ],
+      "unit": "m²"
+     },
+     {
+      "name": "Ковры, паласы (толщина <10 мм)",
+      "prices": [
+       "40"
+      ],
+      "unit": "m²"
+     },
+     {
+      "name": "Ковры, паласы (толщина >10 мм)",
+      "prices": [
+       "45"
+      ],
+      "unit": "m²",
+      "note": "Пункт приема ковров: ул. Мария Драган, 28/3"
+     },
+     {
+      "name": "Упаковка ковров (лей/ковер)",
+      "prices": [
+       "20"
+      ]
+     }
+    ]
+   },
+   {
+    "id": 39,
+    "title": "Химчистка подушек с заменой наперника",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Изменение размеров наперника или изготовление наперника из ткани клиента",
+      "prices": [
+       "20"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Наперник 40x40",
+      "prices": [
+       "55"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Наперник 40x60",
+      "prices": [
+       "65"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Наперник 50x50",
+      "prices": [
+       "70"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Наперник 50x70",
+      "prices": [
+       "90"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Наперник 60x60",
+      "prices": [
+       "90"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Наперник 70x70",
+      "prices": [
+       "100"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Наперник 80x80",
+      "prices": [
+       "110"
+      ],
+      "unit": "buc"
+     },
+     {
+      "name": "Чистка пера",
+      "prices": [
+       "16"
+      ],
+      "unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 5,
+    "title": "Стирка белья",
+    "suspended": false,
+    "rows": [
+     {
+      "name": "Гардино-тюлевые изделия, шторы (без глажения)",
+      "prices": [
+       "45"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Глажение белья после стирки",
+      "prices": [
+       "30"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Крахмаление",
+      "prices": [
+       "5"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Одеяла, толстые покрывало",
+      "prices": [
+       "45"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Плед",
+      "prices": [
+       "100"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Постельное и фасонное белье",
+      "prices": [
+       "33"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Рабочая одежда (без глажения)",
+      "prices": [
+       "45"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Стирка изделий комбинированная с химической чисткой",
+      "prices": [
+       "100"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Столовое белье (салфетки)",
+      "prices": [
+       "38"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Столовое белье (скатерти)",
+      "prices": [
+       "38"
+      ],
+      "unit": "kg"
+     },
+     {
+      "name": "Тонкие ковры",
+      "prices": [
+       "45"
+      ],
+      "unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 14,
+    "title": "Кожа, дубленки (вкл. химчистка)",
+    "suspended": true,
+    "rows": [
+     {
+      "name": "Брюки",
+      "prices": [
+       "525"
+      ]
+     },
+     {
+      "name": "Дублёнка до 60 см",
+      "prices": [
+       "735"
+      ]
+     },
+     {
+      "name": "Жилет",
+      "prices": [
+       "340"
+      ]
+     },
+     {
+      "name": "Кепи",
+      "prices": [
+       "140"
+      ]
+     },
+     {
+      "name": "Куртка",
+      "prices": [
+       "735"
+      ]
+     },
+     {
+      "name": "Перчатки",
+      "prices": [
+       "150"
+      ]
+     },
+     {
+      "name": "Пиджак",
+      "prices": [
+       "595"
+      ]
+     },
+     {
+      "name": "Ремень",
+      "prices": [
+       "110"
+      ]
+     },
+     {
+      "name": "Рубашка",
+      "prices": [
+       "525"
+      ]
+     },
+     {
+      "name": "Сандали, шлепанцы",
+      "prices": [
+       "130"
+      ]
+     },
+     {
+      "name": "Сапоги высокие",
+      "prices": [
+       "270"
+      ]
+     },
+     {
+      "name": "Сумка, клач",
+      "prices": [
+       "220"
+      ]
+     },
+     {
+      "name": "Туфли, кеды, мокасины, кроссовки",
+      "prices": [
+       "205"
+      ]
+     },
+     {
+      "name": "Юбка",
+      "prices": [
+       "430"
+      ]
+     }
+    ]
+   }
+  ],
+  "rules": {
+   "title": "Условия предоставления услуг химчистки и прачечной",
+   "text": ""
+  }
+ }
+}
